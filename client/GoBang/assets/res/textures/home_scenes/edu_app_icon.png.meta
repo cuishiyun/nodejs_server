@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8350687a-7a54-45d1-9725-acc3c89f8f4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "edu_app_icon": {
+      "ver": "1.0.3",
+      "uuid": "5077d264-dba9-4c82-8dcb-cb502ea8b72a",
+      "rawTextureUuid": "8350687a-7a54-45d1-9725-acc3c89f8f4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 100,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

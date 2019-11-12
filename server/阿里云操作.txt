@@ -1,0 +1,19 @@
+公网ip 39.96.197.173  实例密码Cuishiyun1230
+
+ls
+pwd
+fdisk
+mount
+
+mount | grep vda
+
+cd/ ls
+
+scp root@39.96.197.173:/home/helloworld.txt c:/
+
+
+ssh root@39.96.197.173 Cuishiyun1230
+
+
+
+
